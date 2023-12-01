@@ -20,7 +20,7 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 
 - [Understanding Accessibility](https://www.w3.org/WAI/WCAG21/quickref/) - Quick reference to Web Content Accessibility Guidelines (WCAG) principles.
 - [Why Accessibility Matters](https://www.w3.org/WAI/fundamentals/accessibility-intro/) - Fundamentals of web accessibility and its importance.
-- [Roles and Responsibilities](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping)
+- [Roles and Responsibilities](https://www.w3.org/WAI/EO/wiki/ARRM_Project_-_Accessibility_Roles_and_Responsibilities_Mapping) - adaptive framework that will guide stakeholders to integrate web accessibility in all relevant aspects of a product or project life cycle
 
 ## Web Content Accessibility Guidelines (WCAG)
 
