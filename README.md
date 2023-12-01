@@ -55,6 +55,9 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 - [Screen Readers](https://webaim.org/projects/screenreadersurvey9/) - Overview of popular screen readers and their usage statistics.
 - [VoiceOver User Guide](https://www.apple.com/voiceover/info/guide/) - Apple's VoiceOver guide for users.
 
+### Coding
+- [React Accessibility](https://www.linkedin.com/learning/react-accessibility) - This course teaches how to create an accessible experience with single-page applications
+
 ## Legal and Compliance
 
 - [Section 508](https://www.section508.gov/) - Information on the U.S. law requiring federal agencies to make their electronic and information technology accessible to people with disabilities.
@@ -64,6 +67,8 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 
 - [WebAIM Articles](https://webaim.org/articles/) - In-depth articles on various aspects of web accessibility.
 - [A11y Project](https://a11yproject.com/) - Community-driven effort to make web accessibility easier.
+- [Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891?irclickid=Sd6RiQUrnxyPWOM2yLwkGRe5UkFXmkW5PW9oTQ0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&u) - 
+In this course you’ll get hands-on experience making web applications accessible.
 
 ## Contributing
 
