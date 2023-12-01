@@ -33,6 +33,7 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 - [WAVE Accessibility Tool](https://wave.webaim.org/) - Web accessibility evaluation tool.
 - [axe Accessibility Checker](https://www.deque.com/axe/) - Browser extension for accessibility testing.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Integrated tool for improving the quality of web pages.
+- [Test Website](https://www.w3.org/WAI/demos/bad) - The Before and After Demonstration is a multi-page resource that shows an inaccessible website and a retrofitted version of this same website.
 
 ## Designing for Accessibility
 
