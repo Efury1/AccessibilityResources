@@ -57,11 +57,11 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 
 ### Coding
 - [React Accessibility](https://www.linkedin.com/learning/react-accessibility) - This course teaches how to create an accessible experience with single-page applications
-- [Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891?irclickid=Sd6RiQUrnxyPWOM2yLwkGRe5UkFXmkW5PW9oTQ0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&u) - 
+- [Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891?irclickid=Sd6RiQUrnxyPWOM2yLwkGRe5UkFXmkW5PW9oTQ0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&u) - Great starting point for understanding accessibility 
 
 ## Legal and Compliance
 
-- [Australian Disability Discrimination Act]([https://www.linkedin.com/learning/react-accessibility](https://www.legislation.gov.au/Details/C2018C00125) - This is a compilation of the Disability Discrimination Act 1992 that shows the text of the law as amended and in force on 12 April 2018 (the compilation date).
+- [Australian Disability Discrimination Act](https://www.legislation.gov.au/Details/C2018C00125) - This is a compilation of the Disability Discrimination Act 1992 that shows the text of the law as amended and in force on 12 April 2018 (the compilation date).
 
 ## Additional Reading and Learning
 
