@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Accessibility Resources repository! This collection of resources is designed to help developers, designers, and content creators build digital experiences that are accessible to all users, including those with disabilities. By prioritizing accessibility, we can create a more inclusive web and ensure that everyone can participate fully in the online world.
+Welcome to the Accessibility Resources repository! This collection of resources is designed to help developers, designers, and content creators build digital experiences that are accessible to all users! Please, feel free to add to this repo.
 
 ## Table of Contents
 
@@ -31,7 +31,7 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 ## Tools and Testing
 
 - [WAVE Accessibility Tool](https://wave.webaim.org/) - Web accessibility evaluation tool.
-- [axe Accessibility Checker](https://www.deque.com/axe/) - Browser extension for accessibility testing.
+- [Axe Accessibility Checker](https://www.deque.com/axe/) - Browser extension for accessibility testing.
 - [Lighthouse](https://developers.google.com/web/tools/lighthouse) - Integrated tool for improving the quality of web pages.
 - [Test Website](https://www.w3.org/WAI/demos/bad) - The Before and After Demonstration is a multi-page resource that shows an inaccessible website and a retrofitted version of this same website.
 
@@ -57,22 +57,20 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 
 ### Coding
 - [React Accessibility](https://www.linkedin.com/learning/react-accessibility) - This course teaches how to create an accessible experience with single-page applications
+- [Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891?irclickid=Sd6RiQUrnxyPWOM2yLwkGRe5UkFXmkW5PW9oTQ0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&u) - 
 
 ## Legal and Compliance
 
-- [Section 508](https://www.section508.gov/) - Information on the U.S. law requiring federal agencies to make their electronic and information technology accessible to people with disabilities.
-- [Accessibility Laws Around the World](https://www.w3.org/WAI/policies/) - Compilation of global web accessibility policies.
+- [Australian Disability Discrimination Act]([https://www.linkedin.com/learning/react-accessibility](https://www.legislation.gov.au/Details/C2018C00125)) - This is a compilation of the Disability Discrimination Act 1992 that shows the text of the law as amended and in force on 12 April 2018 (the compilation date).
 
 ## Additional Reading and Learning
 
 - [WebAIM Articles](https://webaim.org/articles/) - In-depth articles on various aspects of web accessibility.
 - [A11y Project](https://a11yproject.com/) - Community-driven effort to make web accessibility easier.
-- [Web Accessibility Course](https://www.udacity.com/course/web-accessibility--ud891?irclickid=Sd6RiQUrnxyPWOM2yLwkGRe5UkFXmkW5PW9oTQ0&irgwc=1&utm_source=affiliate&utm_medium=&aff=259799&utm_term=&u) - 
-In this course you’ll get hands-on experience making web applications accessible.
 
 ## Contributing
 
-We welcome contributions to make this repository a comprehensive and up-to-date resource. If you have suggestions, corrections, or new resources to add, please open an issue or submit a pull request.
+I welcome contributions to make this repository a comprehensive and up-to-date resource. If you have suggestions, corrections, or new resources to add, please open an issue or submit a pull request. I would really love this document to be a resource for other developers interested in learning about accessibility. 
 
 ## License
 
