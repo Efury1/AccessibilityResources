@@ -61,7 +61,7 @@ Welcome to the Accessibility Resources repository! This collection of resources 
 
 ## Legal and Compliance
 
-- [Australian Disability Discrimination Act]([https://www.linkedin.com/learning/react-accessibility](https://www.legislation.gov.au/Details/C2018C00125)) - This is a compilation of the Disability Discrimination Act 1992 that shows the text of the law as amended and in force on 12 April 2018 (the compilation date).
+- [Australian Disability Discrimination Act]([https://www.linkedin.com/learning/react-accessibility](https://www.legislation.gov.au/Details/C2018C00125) - This is a compilation of the Disability Discrimination Act 1992 that shows the text of the law as amended and in force on 12 April 2018 (the compilation date).
 
 ## Additional Reading and Learning
 
